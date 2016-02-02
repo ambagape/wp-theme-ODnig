@@ -1,0 +1,116 @@
+/* 
+    Document   : style
+    Created on : Feb 18, 2015, 9:08:49 PM
+    Author     : ambag_000
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+.navbar-collapse{
+    padding-right: 0px;
+    padding-left: 0px;
+}
+.jumboHead{
+    background-color: #007d53;
+    color: #fff;
+    margin-bottom: 5px;
+    padding: 5px;
+}
+
+.sectors a{
+    color:#506228;
+}
+
+.jumbotron .col-md-2{
+    text-align: center;
+}
+@media only screen and (min-width: 1200px){
+    .container {
+        padding-right: 115px;
+        padding-left: 115px;
+    }
+}
+.mynav li{
+    border: 2px solid #506228;
+    border-radius: 10px;
+    font-weight: bold;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: 10px 
+}
+.mynav li a{
+    color: #506228;
+}
+.search{
+    float: right; 
+    margin-top: 20px
+}
+.heading{
+    margin-top: 20px;
+    float: left
+}
+.brand{
+    text-shadow: 1px 1px 1px #000;
+    font-weight: bolder;
+    font-size: x-large
+}
+.logo{
+    float: left
+}
+.whilefont{
+    color:#fff;
+}
+
+.jumbotron .col-md-2{
+    padding-top:40px;
+}
+
+h6{
+    font-weight: bolder;
+}
+h5{
+    font-weight: bolder;
+}
+
+.col-md-2 img{
+    width: 48px;
+    height: 50px
+}
+
+.col-md-4{
+    text-align: justify;
+}
+.news img{
+    width:100px;
+    height:100px;
+    float:left;
+    margin-right: 20px;
+}
+.horizontal_space{
+    margin-top: 8px;
+}
+
+.horizontal_space_lg{
+    margin-top: 30px;
+}
+
+.od_footer{
+    background-color: #2b2b2d;
+    color:#fff;
+}
+
+.od_footer li{
+    color:#2b2b2d;
+}
+
+footer{
+    font-size: small;
+    text-align: center;
+}
+.mct_color{
+    background-color: #007d53
+}
