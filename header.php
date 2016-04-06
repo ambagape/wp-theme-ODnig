@@ -83,7 +83,7 @@
                     <ul class="nav nav-pills mynav visible-lg visible-md">
                         <li role="presentation"><a href="/">HOME</a></li>
                         <li role="presentation"><a href="/dataset">DATA</a></li>
-                        <li role="presentation"><a href="/wp/index.php/innovations/">INNOVATION</a></li>
+                        <li role="presentation"><a href="/wp/index.php/category/ideas-and-innovations/">INNOVATION</a></li>
                         <li role="presentation"><a href="/apihelper">DEVELOPERS</a></li>
                         <li role="presentation"><a href="/wp/index.php/forums/forum/11-2/">REQUEST A DATASET</a></li>
                         <li role="presentation"><a href="/wp/index.php/contact/">CONTACT</a></li>
